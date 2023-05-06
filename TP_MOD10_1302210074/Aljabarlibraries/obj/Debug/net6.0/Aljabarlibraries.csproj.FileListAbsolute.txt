@@ -1,0 +1,12 @@
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\bin\Debug\net6.0\Aljabarlibraries.deps.json
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\bin\Debug\net6.0\Aljabarlibraries.dll
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\bin\Debug\net6.0\Aljabarlibraries.pdb
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\obj\Debug\net6.0\Aljabarlibraries.csproj.AssemblyReference.cache
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\obj\Debug\net6.0\Aljabarlibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\obj\Debug\net6.0\Aljabarlibraries.AssemblyInfoInputs.cache
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\obj\Debug\net6.0\Aljabarlibraries.AssemblyInfo.cs
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\obj\Debug\net6.0\Aljabarlibraries.csproj.CoreCompileInputs.cache
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\obj\Debug\net6.0\Aljabarlibraries.dll
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\obj\Debug\net6.0\refint\Aljabarlibraries.dll
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\obj\Debug\net6.0\Aljabarlibraries.pdb
+C:\Users\Raihan Sulthon Y\OneDrive - Telkom University\Desktop\TP_MOD10_1302210074\Aljabarlibraries\obj\Debug\net6.0\ref\Aljabarlibraries.dll
